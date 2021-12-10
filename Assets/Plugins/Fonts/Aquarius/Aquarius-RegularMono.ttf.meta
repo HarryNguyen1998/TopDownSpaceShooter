@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d2d44483643cba84c9cb78a94dcc7afa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Aquarius
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 704f829504b076d4ba434bc921bc5ec7, type: 3}
+  - {fileID: 12800000, guid: 72934c28a7facec4197b0c19c71d96bb, type: 3}
+  - {fileID: 12800000, guid: 50248a3cab86d68499aa948bd7115978, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
